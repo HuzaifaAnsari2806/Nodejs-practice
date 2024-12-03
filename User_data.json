@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "first_name": "Elsie",
+        "last_name": "Sterry",
+        "email": "esterry0@arstechnica.com",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 2,
+        "first_name": "Denver",
+        "last_name": "Beedham",
+        "email": "dbeedham1@biblegateway.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Celestyn",
+        "last_name": "Malbon",
+        "email": "cmalbon2@latimes.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Gertie",
+        "last_name": "Durrell",
+        "email": "gdurrell3@drupal.org",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Clarine",
+        "last_name": "Yarnold",
+        "email": "cyarnold4@mail.ru",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Helaina",
+        "last_name": "Cuzen",
+        "email": "hcuzen5@phoca.cz",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Clarette",
+        "last_name": "Clymer",
+        "email": "cclymer6@ihg.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Price",
+        "last_name": "Verrills",
+        "email": "pverrills7@upenn.edu",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 9,
+        "first_name": "Fabe",
+        "last_name": "Antonnikov",
+        "email": "fantonnikov8@adobe.com",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 10,
+        "first_name": "Hayden",
+        "last_name": "Noli",
+        "email": "hnoli9@miitbeian.gov.cn",
+        "gender": "Male"
+    },
+    {
+        "id": 11,
+        "first_name": "Huzaifa",
+        "last_name": "Ansari",
+        "email": "huzaifa@gmai.com",
+        "gender": "Male"
+    },
+    {
+        "id": 12,
+        "first_name": "Shoaib",
+        "last_name": "Sayyed",
+        "email": "shoaib@gmai.com",
+        "gender": "Male"
+    }
+]
